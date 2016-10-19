@@ -1,5 +1,5 @@
 {
-  "name": "rediscache",
+  "name": "rediscache-fork-test",
   "version": "0.1.3",
   "description": "Simple Node.js based Redis cache for storing large collections of data.",
   "main": "dist/rediscache.js",
@@ -8,16 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Wildhoney/RedisCache.git"
+    "url": "https://github.com/hackerrdave/RedisCache.git"
   },
   "keywords": [
     "redis cache",
     "cache"
   ],
-  "author": "Adam Timberlake",
+  "author": "Dave Kerr",
   "license": "BSD-2-Clause",
   "bugs": {
-    "url": "https://github.com/Wildhoney/RedisCache/issues"
+    "url": "https://github.com/hackerrdave/RedisCache/issues"
   },
   "dependencies": {
     "express": "~3.4.3",
